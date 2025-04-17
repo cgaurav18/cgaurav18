@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi Nice to see you!👋</h1>
+<h3 align="center">I'm Amin, a Full Stack Developer from India.. </h3>
 
-<!--
-**cgaurav18/cgaurav18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🔹 Passionate about building scalable backends & AI-powered solutions.  
+- 💻 Tech Stack: **Java(Spring Boot), Python(Flask), TypeScript, Nextjs, Docker, MLflow, AI Agents, Langchain.**
+- 🌱 Currently exploring **AI Agents & Workflows**.  
+- 📂 Check out my work: [aminlodhiya.vercel.app](https://aminlodhiya.vercel.app/)  
+- 📫 Reach me at **aminlodhiya88@gmail.com**  
 
-Here are some ideas to get you started:
+## 📍 Connect with Me  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/aminlodhiya)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/aminlodhiya)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/aminlodhiya07)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+**Languages & Frameworks**: Java, Spring Boot, Python, Flask, TypeScript, Next.js  
+**DevOps & Tools**: Docker, MLflow, Git, PostgreSQL  
+
+## 📊 GitHub Stats  
+![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminlodhiya&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aminlodhiya&layout=compact&theme=dark)  
