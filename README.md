@@ -15,6 +15,3 @@
 **Languages & Frameworks**: Java, Spring Boot, Python, Flask, Next.js  
 **DevOps & Tools**: Docker, MLflow, Git, PostgreSQL  
 
-## 📊 GitHub Stats  
-![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cgaurav18&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cgaurav18&layout=compact&theme=dark)  
