@@ -5,7 +5,7 @@
 - 🔹 Passionate about building scalable backends & AI-powered solutions.  
 - 💻 Tech Stack: **Java(Spring Boot), Python(Flask), Nextjs, Docker, MLflow, AI Agents, Langchain.**
 - 🌱 Currently exploring **AI Agents & Workflows**.  
-- 📂 Check out my work: [gauravchavan.vercel.app](https://gauravchavan.vercel.app/)  
+- 📂 Check out my portfolio: [gauravchavan.vercel.app](https://gauravchavan.vercel.app/)  
 - 📫 Reach me at **chvngaurav@gmail.com**  
 
 ## 📍 Connect with Me  
